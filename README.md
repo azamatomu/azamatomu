@@ -6,6 +6,8 @@
 - - How to build web-apps to expose OpenAI-like APIs for transcription, summarization and image generation
 - - How to deploy and fine-tune LLMs and other GPU-intensive applications
 
+[![Azamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamatomu)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **azamatomu/azamatomu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
