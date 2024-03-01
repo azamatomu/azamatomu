@@ -5,6 +5,10 @@
 - 🌱 I’m currently learning ...
 - - How to build web-apps to expose OpenAI-like APIs for transcription, summarization and image generation
 - - How to deploy and fine-tune LLMs and other GPU-intensive applications
+
+<img width="696" alt="Screenshot 2024-03-01 at 11 48 26" src="https://github.com/azamatomu/azamatomu/assets/43146562/14821eea-9c3f-46c5-8d86-b1bc73cbcd75">
+
+
 <!--
 [![Azamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamatomu)](https://github.com/anuraghazra/github-readme-stats)
 -->
