@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on:
+- - Personalization algorithms, customer segmentation and causal analyses at ING 🦁 
+- - LLM-powered side projects and fun apps 🤖
+- 🌱 I’m currently learning ...
+- - How to build web-apps to expose OpenAI-like APIs for transcription, summarization and image generation
+- - How to deploy and fine-tune LLMs and other GPU-intensive applications
 
 <!--
 **azamatomu/azamatomu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
